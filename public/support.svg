@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="49.794285"
+   height="50.59433"
+   viewBox="0 0 6.2242856 6.3242912"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="support.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.96625"
+     inkscape:cx="361.70763"
+     inkscape:cy="392.7555"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <path
+     style="fill:#549e45;stroke:#2a5f1f;stroke-width:0.130269"
+     d="M 2.2545936,1.1785031 6.0199152,0.08670394 V 2.527196 L 5.5575072,2.7198664 V 3.618995 L 3.7078754,4.4539002 V 3.4263246 L 2.7830597,3.8758889 V 4.9034645 L 2.2545936,5.1603584 Z"
+     id="path1" />
+  <path
+     style="fill:#cccccc;stroke-width:0.0651345"
+     d="M 4.7648078,1.1142796 5.6235652,0.8573857 V 2.0134082 L 4.7648078,2.3345255 Z M 2.7170015,1.6280673 4.0381669,1.2427265 V 2.6556429 L 2.7170015,3.1694308 Z"
+     id="path2" />
+  <path
+     style="fill:#333333;stroke:#111111;stroke-width:0.0651345"
+     d="M 4.9629826,1.1785031 5.8217392,0.9216091 V 2.0776317 L 4.9629826,2.398749 Z M 2.9151762,1.6922907 4.2363416,1.3069499 V 2.7198664 L 2.9151762,3.2336542 Z"
+     id="path3" />
+  <path
+     style="fill:#cdb754;stroke:#6a5600;stroke-width:0.0651345"
+     d="m 5.2932742,2.8483133 0.132116,-0.064224 V 3.683218 L 5.2932742,3.747442 Z M 4.9629826,2.9767603 5.0950992,2.9125368 V 3.8116654 L 4.9629826,3.8758889 Z M 4.6326912,3.1052072 4.7648078,3.0409838 V 3.9401124 L 4.6326912,4.0043358 Z M 4.3023999,4.1970063 V 3.2336542 l 0.1321166,-0.064223 v 0.963352 z M 3.9721086,4.3254532 V 3.3621011 l 0.1321165,-0.064223 v 0.9633521 z"
+     id="path4" />
+  <path
+     style="fill:#888888;stroke:#333333;stroke-width:0.0651345"
+     d="m 0.60313676,0.9216091 0.066059,4.3029728 c 0,0 0.46240804,0.1926704 0.39634974,0.8349051 L 1.924303,6.187934 C 1.858244,5.5456993 2.2545936,5.4814758 2.2545936,5.4814758 V 1.0500561 Z m 0.2642331,2.5047155 0.46240784,0.064223 v 1.091799 L 0.86736986,4.5181237 Z"
+     id="path5" />
+  <path
+     style="fill:#aaaaaa;stroke:#555555;stroke-width:0.0651345"
+     d="m 0.78149416,0.8381186 -0.7728816,0.2119375 0.5945242,0.064223 0.3104739,-0.089913 0.41616704,0.038534 -0.2642329,0.1156023 0.5945243,0.064223 0.6605828,-0.2568939 z"
+     id="path6" />
+  <path
+     style="fill:#555555;stroke:#222222;stroke-width:0.130269"
+     d="m 4.5005747,4.2612298 c 0,0 1.7835735,1.1560225 1.6514565,1.9909277 C 5.3593322,6.3806043 4.0381669,4.6465706 4.0381669,4.6465706"
+     id="path7" />
+  <ellipse
+     cx="3.0472932"
+     cy="3.233654"
+     fill="none"
+     stroke="#222222"
+     style="stroke-width:0.130269"
+     id="circle7"
+     rx="1.7175149"
+     ry="1.6698104" />
+  <ellipse
+     cx="3.0472932"
+     cy="3.233654"
+     fill="none"
+     stroke="#999999"
+     style="stroke-width:0.260537"
+     id="circle8"
+     rx="1.5193404"
+     ry="1.4771399" />
+  <ellipse
+     cx="3.0472932"
+     cy="3.233654"
+     fill="#eeeeee"
+     stroke="#222222"
+     style="fill-opacity:0.5;stroke-width:0.0651345"
+     id="circle9"
+     rx="1.3872236"
+     ry="1.348693" />
+</svg>
